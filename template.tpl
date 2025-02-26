@@ -705,7 +705,7 @@ const templateVersion = '2024-04-05';
 
 // Logging wrapper
 function log(message, noPrefix){
-  const prefix = 'Meiro: ';2
+  const prefix = 'Meiro: ';
   logToConsole(noPrefix === true ? message : prefix + message);
 }
 
