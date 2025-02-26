@@ -6,6 +6,13 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Meiro",
+  "categories": [
+    "CONVERSIONS",
+    "ANALYTICS",
+    "DATA_PROCESSING",
+    "MARKETING",
+    "REMARKETING"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Optimics \u0026 Meiro",
