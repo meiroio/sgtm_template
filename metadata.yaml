@@ -1,6 +1,6 @@
 homepage: "https://www.meiro.io/"
-documentation: "https://docs.meiro.io/books/meiro-events/page/events-list-of-events"
+documentation: "https://github.com/meiroio/sgtm_template/blob/main/README.md"
 versions:
   # Latest version
-  - sha: ca0ed494df7a1f32f732768c5a7ef4366f30f03d
+  - sha: 752ca1785fabf4c906e81d7a52e705f2d0e311eb
     changeNotes: "Initial release of the Meiro Server-Side GTM Template. Support for page views, custom events, web banner interactions, contact form submissions, and outbound link tracking."
